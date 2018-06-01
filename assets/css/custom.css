@@ -371,7 +371,7 @@
   .decs{
     background-image: url(../images/bg-images/cc.jpg);
     background-repeat: no-repeat;
-    
+    background-attachment: fixed;
     background-size: cover;
   }
   p{
