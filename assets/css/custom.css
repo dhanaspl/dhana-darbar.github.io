@@ -90,6 +90,8 @@
     background-image: url(../images/bg-images/cloth.jpg);
     background-attachment: fixed;
     background-size: cover;
+    background-repeat:no-repeat;
+    background-position:center;
   }
   .button{
     border-radius: 200px;
