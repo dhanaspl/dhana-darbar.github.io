@@ -259,6 +259,15 @@
   }
   .decs{
     padding: 25px 80px;
+    background-image: url(../images/bg-images/cc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+    .dec{
+    background-image: url(../images/bg-images/10.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
   }
 
@@ -341,7 +350,11 @@
     width: auto;
   }
   .dec{
-    background-attachment:fixed;
+    background-position:center;
+     background-image: url(../images/bg-images/10.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
   #time{
     font-size: 20px;
@@ -349,6 +362,9 @@
   .decs{
     padding:25px 20px;
     text-align: center;
+    background-image: url(../images/bg-images/cc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   }
 
@@ -362,17 +378,7 @@
     background-attachment: fixed;
     background-size: cover;
   }
-  .dec{
-    background-image: url(../images/bg-images/10.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-  }
-  .decs{
-    background-image: url(../images/bg-images/cc.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+  
   p{
     color:white;
   }
