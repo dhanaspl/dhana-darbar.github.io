@@ -262,7 +262,7 @@
   }
   }
 
-/* Media queries - Responsive timeline on screens less than 600px wide */
+/* Media queries - Responsive timeline on screens less than 1064px wide */
   @media all and (max-width: 1064px) {
   .but {
     border-radius: 40px;
@@ -277,9 +277,6 @@
   }
   p{
     font-size: 20px;
-  }
-  .hid{
-    display: none;
   }
   .button {
     width: 70%;
@@ -351,6 +348,7 @@
   }
   .decs{
     padding:25px 20px;
+    text-align: center;
   }
   }
 
