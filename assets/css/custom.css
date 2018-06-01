@@ -341,7 +341,7 @@
     width: auto;
   }
   .dec{
-    background-position: center;
+    background-attachment:fixed;
   }
   #time{
     font-size: 20px;
@@ -365,7 +365,7 @@
   .dec{
     background-image: url(../images/bg-images/10.jpg);
     background-repeat: no-repeat;
-    
+    background-attachment: fixed;
     background-size: cover;
   }
   .decs{
